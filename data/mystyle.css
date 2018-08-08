@@ -1,0 +1,10 @@
+body {
+    text-align:center; 
+    font-family: monospace; 
+    font-size: 50px
+}
+
+.value {
+    color: #09F;
+    font-size: 70px
+}
